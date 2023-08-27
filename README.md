@@ -3,7 +3,7 @@ Introduction
 This is an Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This analysis provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 
 Data Source
-The dataset is collected from here. The dataset contains two files: athlete_events.csv and noc_regions.csv.
+The dataset is collected from herehttps://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results . The dataset contains two files: athlete_events.csv and noc_regions.csv.
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete events). The columns are:
 
 ID - Unique number for each athlete
