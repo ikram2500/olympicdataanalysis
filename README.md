@@ -63,7 +63,7 @@ Distribution of Age w.r.t Sports only who have won Gold Medals (Curves)
 Gender Ratio with Height vs Weight of the Athletes. Here users can select a Sport as per their choice from the dropdown list. (Scatter Plot)
 Men Vs Women Participation Over the Years (Line Graph)
 How to run the project locally
-Clone the repository using git clone https://github.com/Mohitur669/Olympic-Data-Analysis-WebApp.git in the terminal
+Clone the repository in the terminal
 Install the required libraries (mentioned in requirements.txt)
 Run the command streamlit run app.py to run the app locally
 The web app will open in the browser
